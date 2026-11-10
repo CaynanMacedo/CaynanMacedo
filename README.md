@@ -31,7 +31,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Caynan from São Carlos SP<br><br>- 📚 I'm currently learning BIG DATA <br>- ⚡ In my free time I play and study programation</p>
+<p data-importer="text" align="left">I'm Caynan from São Carlos SP i have 20 years old <br><br>- 📚 I'm currently learning BIG DATA <br>- ⚡ In my free time I play and study programation</p>
 
 ###
 
